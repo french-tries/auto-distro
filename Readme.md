@@ -1,0 +1,3 @@
+# Auto-Distro
+
+This personal project aims to be able to automatically install and configure to my preferences a distro using separate encrypted zfs dataset, and be able to multiboot. Since I am an inveterate distrohopper, maybe it will make me lose less time in the future...

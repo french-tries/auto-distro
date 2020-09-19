@@ -1,0 +1,6 @@
+bin/configuration.py
+
+bin/__pycache__
+
+.kdev4/
+*.kdev4

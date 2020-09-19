@@ -1,0 +1,8 @@
+- add more distros and refactor as needed.
+- make more robust and checks if steps completed sucessfully or not.
+- be able to skip steps already done
+- more printing
+- check : https://github.com/98h398hrpohpoai/root-on-zfs-systemdboot
+- check : https://github.com/zbm-dev/zfsbootmenu
+- email client and web browser setup ?
+- promote another distro to primary to make it manage grub ?
